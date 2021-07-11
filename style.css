@@ -81,12 +81,6 @@ h3 {
     padding: 20px;
 }
 
-@media screen and (max-width:480px){
-	#wrapper-box, #container-wrapper, .container {
-	width: 100px;
-	}
-}
-
 .header {
     width:100%;
     padding: 0 0 40px 0;
