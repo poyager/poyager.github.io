@@ -55,7 +55,7 @@ html, body {
     color: #555;
 }
 
-h1 {font-size:x-large;}
+h1 {font-size:xx-large;}
 h2 {font-size:larger;}
 h3 {font-size:large;}
 
@@ -82,6 +82,7 @@ h3 {font-size:large;}
 
 .container, .header {
     width:100%;
+    padding: 20px 0 40px 0;
 }
 
 .header h1, .header h2, .header h3 {
