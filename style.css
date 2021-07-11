@@ -95,7 +95,10 @@ h3 {
 
 .header h1, .header h2, .header h3 {
     text-align: left;
-    font-weight: 700;
+}
+
+.header h2 {
+    line-height: 1.2em;
 }
 
 .deschead {
