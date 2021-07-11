@@ -58,17 +58,17 @@ html, body {
 
 h1 {
     font-size:xx-large;
-    font-weight:bold;
+    font-weight:700;
 }
 
 h2 {
     font-size:larger;
-    font-weight:bold;
+    font-weight:700;
 }
 
 h3 {
     font-size:large;
-    font-weight:bold;
+    font-weight:700;
 }
 
 #wrapper-box {
