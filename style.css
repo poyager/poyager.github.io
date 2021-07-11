@@ -72,11 +72,9 @@ h3 {
 }
 
 #wrapper-box {
-    height: 100%;
     max-width: 1280px;
     margin: 0 auto;
     position: relative;
-    display: block;
     line-height: 1.5em;
     padding: 20px;
 }
