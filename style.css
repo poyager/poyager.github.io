@@ -50,7 +50,7 @@ table {
 /* Basic */
 html, body {
     font-family: 'Roboto', sans-serif;
-    font-size: 400;
+    font-weight: 400;
     height: 100%;
     color: #555;
 }
@@ -87,4 +87,5 @@ h3 {font-size:large;}
 
 .header h1, .header h2, .header h3 {
     text-align: left;
+    font-weight: 700;
 }
