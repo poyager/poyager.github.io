@@ -23,6 +23,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -55,7 +56,8 @@ html, body {
     color: #555;
 }
 
-h1 {font-size:xx-large;}
+h1 {
+font-size:xx-large;}
 h2 {font-size:larger;}
 h3 {font-size:large;}
 
@@ -69,21 +71,10 @@ h3 {font-size:large;}
     line-height: 1.5em;
 }
 
-.cencon {
-    width: 100%;
-}
-
-.cenlink {
-    position: absolute;
-    z-index: 1000;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-}
-
-.container, .header {
+.header {
     width:100%;
     padding: 20px 0 40px 0;
+    line-height: 2em;
 }
 
 .header h1, .header h2, .header h3 {
