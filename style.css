@@ -83,7 +83,7 @@ h3 {
 }
 
 @media screen and (max-width:480px){
-	#wrapper-box {
+	#wrapper-box, #container-wrapper, .container {
 	width: 100px;
 	}
 }
