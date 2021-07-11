@@ -57,9 +57,19 @@ html, body {
 }
 
 h1 {
-font-size:xx-large;}
-h2 {font-size:larger;}
-h3 {font-size:large;}
+    font-size:xx-large;
+    font-weight:bold;
+}
+
+h2 {
+    font-size:larger;
+    font-weight:bold;
+}
+
+h3 {
+    font-size:large;
+    font-weight:bold;
+}
 
 #wrapper-box {
     width: 100%;
