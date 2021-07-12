@@ -49,6 +49,21 @@ table {
 }
 
 /* Basic */
+a:link{
+    color:#2A78B8;
+    text-decoration:none;
+}
+
+a:hover, a:visited:hover{
+    color:#7BABD1;
+    text-decoration:underline;
+}
+
+a:visited{
+    color:#2A78B8;
+    text-decoration:none;
+}
+
 html, body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
@@ -99,4 +114,26 @@ h3 {
 
 .deschead {
     padding-bottom: 40px;
+}
+
+.title-yo ul, .artist-yo ul {
+    display: block;
+}
+
+.title-yo ul li, .artist-yo ul li {
+    display: inline-block;
+}
+
+.title-yo ul li svg, .artist-yo ul li svg {
+    margin: 0 0 -2px 0;
+    width: 18px;
+    height: 18px;
+}
+
+.title-yo ul li svg {
+    padding-right: 10px;
+}
+
+.artist-yo ul li svg {
+    padding-left: 10px;
 }
