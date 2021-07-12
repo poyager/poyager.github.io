@@ -89,6 +89,10 @@ h3 {
     text-align: left;
 }
 
+.header h1 {
+    padding-bottom: 40px;
+}
+
 .header h2 {
     line-height: 1.2em;
 }
